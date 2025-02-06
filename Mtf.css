@@ -19,6 +19,15 @@
     margin-bottom: 32px;
 }
 
+.horizontal-dotted-line {
+    background-color: #3f3f43;
+    border-bottom: 3px dashed #161617;
+    display: flex;
+    margin-top: 72px;
+    margin-bottom: 32px;
+    /* border-style: dotted; */
+}
+
 .website-header-container {
     display: flex;
     flex-direction: column;
@@ -223,7 +232,7 @@
     margin-top: 32px;
 
     .technical-leader-crew-heading {
-        font-size: 18px;
+        font-size: 14px;
         line-height: 21.6px;
         color: #8A8A91;
         margin-top: 32px;
