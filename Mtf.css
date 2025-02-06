@@ -7,6 +7,7 @@
     font-family: 'iA Writer Quattro';
 }
 
+
 /* #region first-section */
 .main-div-container {
     padding: 32px 16px 32px 16px;
@@ -63,6 +64,7 @@
             font-size: 14px;
             line-height: 25.2px;
             border-bottom: 1px solid #D961EC;
+            cursor: pointer;
 
         }
     }
@@ -82,6 +84,7 @@
 
 .mtf-investment-strategy-container {
     margin-top: 72px;
+
 
 
     p {
@@ -109,6 +112,7 @@
     margin-top: 32px;
 
 
+
     p {
         font-size: 18px;
         line-height: 21.6px;
@@ -132,6 +136,7 @@
         font-size: 16px;
         line-height: 24px;
         border-bottom: 1px solid #D961EC;
+        cursor: pointer;
 
     }
 }
@@ -172,6 +177,7 @@
         font-size: 16px;
         line-height: 24px;
         border-bottom: 1px solid #D961EC;
+        cursor: pointer;
 
     }
 
@@ -290,6 +296,7 @@
             color: #D9D9E0;
             text-decoration: none;
             line-height: 24px;
+            cursor: pointer;
         }
 
         li span {
@@ -376,6 +383,7 @@
             font-size: 14px;
             line-height: 25.2px;
             border-bottom: 1px solid #D961EC;
+            cursor: pointer;
 
         }
     }
@@ -408,6 +416,8 @@
             font-size: 16px;
             line-height: 24px;
             border-bottom: 1px solid #D961EC;
+            cursor: pointer;
+            text-decoration: none;
 
         }
 
@@ -419,6 +429,14 @@
     }
 }
 
+/* .sticky {
+    position: sticky;
+    top: 0px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+
+} */
+
 /* #endregion */
 
 
@@ -429,7 +447,6 @@
 
     .full-logo {
         display: block;
-        width: 372.55px;
         height: 40px;
     }
 
@@ -475,6 +492,7 @@
     .website-header-container li a {
         font-size: 15px;
         line-height: 25.2px;
+        cursor: pointer;
     }
 
     /* fifth section */
@@ -520,6 +538,7 @@
         li a {
             font-size: 16px;
             line-height: 29.6px;
+            cursor: pointer;
         }
     }
 
@@ -571,6 +590,7 @@
         li a {
             font-size: 18px;
             line-height: 27.9px;
+            cursor: pointer;
         }
     }
 
@@ -585,6 +605,7 @@
         li a {
             font-size: 18px;
             line-height: 27.9px;
+            cursor: pointer;
         }
     }
 
@@ -657,6 +678,7 @@
         .links li a {
             font-size: 16px;
             line-height: 29.6px;
+            cursor: pointer;
         }
 
         .footer-nevigation p {
