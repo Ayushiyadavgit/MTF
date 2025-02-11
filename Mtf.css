@@ -65,6 +65,7 @@
             line-height: 25.2px;
             border-bottom: 1px solid #D961EC;
             cursor: pointer;
+            text-decoration: none;
 
         }
     }
@@ -137,6 +138,7 @@
         line-height: 24px;
         border-bottom: 1px solid #D961EC;
         cursor: pointer;
+        text-decoration: none;
 
     }
 }
@@ -240,9 +242,9 @@
     .technical-leader-crew-heading {
         font-size: 14px;
         line-height: 21.6px;
-        color: #8A8A91;
+        color: #D9D9E0;
         margin-top: 32px;
-        margin-bottom: 32px;
+        margin-bottom: 24px;
     }
 
     .technical-leader-crew-links {
@@ -306,6 +308,12 @@
 
         }
 
+    }
+
+    .current-prev-investment-sub-heading {
+        li {
+            padding-left: 20px;
+        }
     }
 }
 
@@ -384,6 +392,7 @@
             line-height: 25.2px;
             border-bottom: 1px solid #D961EC;
             cursor: pointer;
+            text-decoration: none;
 
         }
     }
@@ -662,6 +671,8 @@
             font-size: 18px;
             line-height: 27.9px;
         }
+
+
     }
 
     .founder-quote-container {
