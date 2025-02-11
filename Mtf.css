@@ -215,7 +215,7 @@
     }
 
     .mtf-technical-crew-link {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 24px;
         color: #D9D9E0;
         display: flex;
@@ -248,7 +248,7 @@
     }
 
     .technical-leader-crew-links {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 24px;
         color: #D9D9E0;
         display: flex;
@@ -337,7 +337,7 @@
 
     .text {
         margin-bottom: 48px;
-        padding-left: 23px;
+        /* padding-left: 23px; */
     }
 }
 
@@ -635,7 +635,7 @@
             display: flex;
             flex-direction: row !important;
             gap: 32px;
-            font-size: 18px !important;
+            font-size: 14px !important;
             line-height: 27.9px !important;
         }
     }
@@ -651,10 +651,11 @@
         .technical-leader-crew-links {
             flex-direction: row;
             gap: 32px;
+            font-size: 14px;
         }
 
         .technical-leader-crew-links p {
-            font-size: 18px;
+            font-size: 14px;
             line-height: 27.9px;
         }
     }
