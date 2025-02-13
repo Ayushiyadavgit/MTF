@@ -588,17 +588,17 @@
     .mtf-investment-strategy-container {
 
         p {
-            font-size: 20px !important;
+            font-size: 16px !important;
             line-height: 25px !important;
         }
 
         ul li {
-            font-size: 18px;
+            font-size: 14px;
             line-height: 27.9px;
         }
 
         li a {
-            font-size: 18px;
+            font-size: 14px;
             line-height: 27.9px;
             cursor: pointer;
         }
@@ -623,7 +623,7 @@
 
     .mtf-technical-crew-container {
         .mtf-technical-crew-heading {
-            font-family: 20px;
+            font-size: 16px;
             line-height: 25px;
         }
 
@@ -665,12 +665,12 @@
 
     .current-prev-investment-container {
         .current-prev-investment-heading {
-            font-size: 20px;
+            font-size: 16px;
             line-height: 25px;
         }
 
         .current-prev-investment-links {
-            font-size: 18px;
+            font-size: 14px;
             line-height: 27.9px;
         }
 
@@ -699,6 +699,16 @@
             line-height: 29.6px;
         }
 
+    }
+
+    .founder-quote-container {
+        .quote {
+            font-size: 14px;
+        }
+
+        .text {
+            font-size: 14px;
+        }
     }
 
 
