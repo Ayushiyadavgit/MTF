@@ -89,7 +89,7 @@
 
 
     p {
-        font-size: 18px;
+        font-size: 14px;
         line-height: 21.6px;
         color: #8A8A91;
     }
@@ -101,7 +101,8 @@
     }
 
     ul li {
-        font-size: 16px;
+        /* font-size: 16px; */
+        font-size: 12px;
         line-height: 24px;
         color: #D9D9E0;
     }
@@ -115,7 +116,7 @@
 
 
     p {
-        font-size: 18px;
+        font-size: 14px;
         line-height: 21.6px;
         color: #8A8A91;
     }
@@ -127,14 +128,14 @@
     }
 
     ul li {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 24px;
         color: #D9D9E0;
     }
 
     li a {
         color: #D961EC;
-        font-size: 16px;
+        font-size: 12px;
         line-height: 24px;
         border-bottom: 1px solid #D961EC;
         cursor: pointer;
@@ -199,7 +200,7 @@
     font-family: 'iA Writer Quattro';
 
     .mtf-technical-crew-heading {
-        font-size: 18px;
+        font-size: 14px;
         line-height: 21.6px;
         color: #8A8A91;
         margin-bottom: 32px;
@@ -272,14 +273,14 @@
 
 .current-prev-investment-container {
     .current-prev-investment-heading {
-        font-size: 18px;
+        font-size: 14px;
         line-height: 21.6px;
         color: #8A8A91;
         margin-bottom: 32px;
     }
 
     .current-prev-investment-links {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 24px;
         color: #D9D9E0;
         display: flex;
@@ -310,11 +311,11 @@
 
     }
 
-    .current-prev-investment-sub-heading {
+    /* .current-prev-investment-sub-heading {
         li {
             padding-left: 20px;
         }
-    }
+    } */
 }
 
 
@@ -322,7 +323,7 @@
 
 /* #region sixeth section */
 .founder-quote-container {
-    font-size: 16px;
+    font-size: 12px;
     line-height: 24px;
     color: #D9D9E0;
     margin: 48px 0px;
@@ -330,7 +331,7 @@
     border-left: 1px solid #3f3f43; */
 
     .quote {
-        margin-bottom: 16px;
+        margin-bottom: 12px;
         border-left: 1px solid #3f3f43;
         padding-left: 23px;
     }
