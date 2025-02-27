@@ -17,7 +17,8 @@
     background-color: #3f3f43;
     height: 1px;
     margin-top: 72px;
-    margin-bottom: 32px;
+    /* margin-bottom: 32px; */
+    margin-bottom: 72px;
 }
 
 .horizontal-dotted-line {
@@ -73,6 +74,8 @@
 
 .short-logo {
     display: block;
+    width: 143px;
+    height: 29px;
 }
 
 .full-logo {
@@ -213,6 +216,7 @@
         color: #D9D9E0;
         margin-bottom: 24px;
         margin-top: 32px;
+        margin-left: 10px;
     }
 
     .mtf-technical-crew-link {
@@ -221,6 +225,7 @@
         color: #D9D9E0;
         display: flex;
         flex-direction: column;
+        margin-left: 10px;
     }
 
     .mtf-technical-crew-link a {
@@ -239,6 +244,7 @@
 /* #region fourth-section */
 .technical-leader-crew-container {
     margin-top: 32px;
+    margin-left: 10px;
 
     .technical-leader-crew-heading {
         font-size: 14px;
@@ -423,7 +429,7 @@
 
         li a {
             color: #D961EC;
-            font-size: 16px;
+            font-size: 14px;
             line-height: 24px;
             border-bottom: 1px solid #D961EC;
             cursor: pointer;
@@ -546,7 +552,8 @@
         justify-content: end;
 
         li a {
-            font-size: 16px;
+            /* font-size: 16px; */
+            font-size: 14px;
             line-height: 29.6px;
             cursor: pointer;
         }
@@ -689,7 +696,7 @@
         }
 
         .links li a {
-            font-size: 16px;
+            font-size: 14px;
             line-height: 29.6px;
             cursor: pointer;
         }
